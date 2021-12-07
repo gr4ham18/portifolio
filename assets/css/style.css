@@ -12,6 +12,11 @@
     
   }
   
+  .pic {
+    width: 60%;
+    margin-left: 5%;
+    border: solid rgb(23, 16, 112)
+  }
   /* apply styles to <header> */
   header {
     padding: 20px 35px;
